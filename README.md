@@ -18,13 +18,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require ahmadhelmy/yii2-tcpdf "dev-master"
+$ php composer.phar require beatep/yii2-tcpdf "dev-master"
 ```
 
 or add
 
 ```
-"ahmadhelmy/yii2-tcpdf": "dev-master"
+"beatep/yii2-tcpdf": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
@@ -37,7 +37,7 @@ to the ```require``` section of your `composer.json` file.
 ...
 		// Yii2 TCPDF
 		'tcpdf' => [
-			'class' => 'ahmadhelmy\tcpdf\TCPDF',
+			'class' => 'beatep\tcpdf\TCPDF',
 		],
 		...
 ]</pre>

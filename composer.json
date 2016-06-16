@@ -1,14 +1,13 @@
 {
-    "name": "ahmadhelmy/yii2-tcpdf",
+    "name": "beatep/yii2-tcpdf",
     "description": "Yii2 TCPDF to load TCPDF libraries in a Yii2 site.",
     "keywords": ["yii2", "pdf", "TCPDF"],
-    "homepage": "https://github.com/ahmadhelmy/yii2-tcpdf",
+    "homepage": "https://github.com/beatep/yii2-tcpdf",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
         {
-            "name": "Giandomenico Olini",
-            "email": "info@gogodigital.it",
+            "name": "Beate P",
             "homepage": "http://www.gogodigital.it/"
         }
     ],
@@ -19,11 +18,11 @@
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
-        "ahmadhelmy/yii2-tcpdf": "*"
+        "beatep/yii2-tcpdf": "*"
     },
     "autoload": {
         "psr-4": {
-            "ahmadhelmy\\tcpdf\\": ""
+            "beatep\\tcpdf\\": ""
         }
     }
 }
