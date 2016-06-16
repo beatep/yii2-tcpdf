@@ -12,7 +12,7 @@
  * @tcpdf examples http://www.tcpdf.org/examples.php
  */
  
-namespacebeatep\tcpdf;
+namespace beatep\tcpdf;
 
 use Yii;
 use yii\base\Component;

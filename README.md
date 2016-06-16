@@ -6,6 +6,7 @@ Yii2 TCPDF to load TCPDF libraries in a Yii2 site
 <h2>CHANGELOG</h2>
 
 <ul>
+  <li>0.4 - Loaded tcpdf_6_1_12</li>
   <li>0.3 - Added example</li>	
   <li>0.2 - Loaded tcpdf_6_0_075</li>
   <li>0.1 - Initial Releases</li>
